@@ -1,0 +1,41 @@
+version: '3.8'
+networks:
+  my-network:
+
+services:
+  #mailcatcher:
+    #container_name: 'smtp_server'
+    #networks:
+    #   - my-network
+    #image: yappabe/mailcatcher
+   # ports:
+      #- 1025:1025
+     # - 1080:1080
+  database:
+    container_name: PFA5_database
+    image: mcr.microsoft.com/mssql/server:2023-latest
+    environment:
+      - ACCEPT_EULA=Y
+      
+    ports:
+      - "8002:1433"
+     #"8080:80"
+    networks:
+      - my-network
+  PFA:
+    container_name: PFA
+    image: ${DOCKER_REGISTRY-}pfa
+    build:
+      context: 
+      dockerfile: PFA/Dockerfile
+    ports:
+      - "7005:443"
+       #"1433:1433"
+    depends_on:
+      - database
+    environment:
+      - DB_HOST=database
+      - DB_NAME=PFA5
+    networks:
+      - my-network
+   

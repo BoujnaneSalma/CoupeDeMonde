@@ -1,0 +1,849 @@
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\appsettings.Development.json
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\appsettings.json
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\PFA.staticwebassets.runtime.json
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\PFA.exe
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\PFA.deps.json
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\PFA.runtimeconfig.json
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\PFA.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\PFA.pdb
+D:\Projet .NET 4eme annee\PFA\PFA\obj\Debug\net6.0\PFA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projet .NET 4eme annee\PFA\PFA\obj\Debug\net6.0\PFA.AssemblyInfoInputs.cache
+D:\Projet .NET 4eme annee\PFA\PFA\obj\Debug\net6.0\PFA.AssemblyInfo.cs
+D:\Projet .NET 4eme annee\PFA\PFA\obj\Debug\net6.0\PFA.csproj.CoreCompileInputs.cache
+D:\Projet .NET 4eme annee\PFA\PFA\obj\Debug\net6.0\PFA.MvcApplicationPartsAssemblyInfo.cache
+D:\Projet .NET 4eme annee\PFA\PFA\obj\Debug\net6.0\PFA.RazorAssemblyInfo.cache
+D:\Projet .NET 4eme annee\PFA\PFA\obj\Debug\net6.0\PFA.RazorAssemblyInfo.cs
+D:\Projet .NET 4eme annee\PFA\PFA\obj\Debug\net6.0\staticwebassets\msbuild.PFA.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projet .NET 4eme annee\PFA\PFA\obj\Debug\net6.0\staticwebassets\msbuild.build.PFA.props
+D:\Projet .NET 4eme annee\PFA\PFA\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PFA.props
+D:\Projet .NET 4eme annee\PFA\PFA\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PFA.props
+D:\Projet .NET 4eme annee\PFA\PFA\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Projet .NET 4eme annee\PFA\PFA\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projet .NET 4eme annee\PFA\PFA\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projet .NET 4eme annee\PFA\PFA\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Projet .NET 4eme annee\PFA\PFA\obj\Debug\net6.0\scopedcss\bundle\PFA.styles.css
+D:\Projet .NET 4eme annee\PFA\PFA\obj\Debug\net6.0\scopedcss\projectbundle\PFA.bundle.scp.css
+D:\Projet .NET 4eme annee\PFA\PFA\obj\Debug\net6.0\PFA.dll
+D:\Projet .NET 4eme annee\PFA\PFA\obj\Debug\net6.0\refint\PFA.dll
+D:\Projet .NET 4eme annee\PFA\PFA\obj\Debug\net6.0\PFA.pdb
+D:\Projet .NET 4eme annee\PFA\PFA\obj\Debug\net6.0\PFA.genruntimeconfig.cache
+D:\Projet .NET 4eme annee\PFA\PFA\obj\Debug\net6.0\ref\PFA.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Humanizer.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\MessagePack.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\NuGet.Common.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Projet .NET 4eme annee\PFA\PFA\obj\Debug\net6.0\PFA.csproj.AssemblyReference.cache
+D:\Projet .NET 4eme annee\PFA\PFA\obj\Debug\net6.0\PFA.csproj.CopyComplete
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Projet .NET 4eme annee\PFA\PFA\obj\Debug\net6.0\PFA.MvcApplicationPartsAssemblyInfo.cs
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Syncfusion.EJ2.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Syncfusion.Licensing.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Projet .NET 4eme annee\PFA\PFA\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\appsettings.json
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\PFA.staticwebassets.runtime.json
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\PFA.exe
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\PFA.deps.json
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\PFA.runtimeconfig.json
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\PFA.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\PFA.pdb
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Humanizer.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\MessagePack.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Syncfusion.EJ2.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\Syncfusion.Licensing.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\obj\Debug\net6.0\PFA.csproj.AssemblyReference.cache
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\obj\Debug\net6.0\PFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\obj\Debug\net6.0\PFA.AssemblyInfoInputs.cache
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\obj\Debug\net6.0\PFA.AssemblyInfo.cs
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\obj\Debug\net6.0\PFA.csproj.CoreCompileInputs.cache
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\obj\Debug\net6.0\PFA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\obj\Debug\net6.0\PFA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\obj\Debug\net6.0\PFA.RazorAssemblyInfo.cache
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\obj\Debug\net6.0\PFA.RazorAssemblyInfo.cs
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\obj\Debug\net6.0\staticwebassets\msbuild.PFA.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\obj\Debug\net6.0\staticwebassets\msbuild.build.PFA.props
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PFA.props
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PFA.props
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\obj\Debug\net6.0\scopedcss\bundle\PFA.styles.css
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\obj\Debug\net6.0\scopedcss\projectbundle\PFA.bundle.scp.css
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\obj\Debug\net6.0\PFA.csproj.Up2Date
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\obj\Debug\net6.0\PFA.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\obj\Debug\net6.0\refint\PFA.dll
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\obj\Debug\net6.0\PFA.pdb
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\obj\Debug\net6.0\PFA.genruntimeconfig.cache
+C:\Users\BOUJNANE\Downloads\PFA_GI_4-master(1)\PFA_GI_4-master\PFA\obj\Debug\net6.0\ref\PFA.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\appsettings.Development.json
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\appsettings.json
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\PFA.staticwebassets.runtime.json
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\PFA.exe
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\PFA.deps.json
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\PFA.runtimeconfig.json
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\PFA.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\PFA.pdb
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Humanizer.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\MessagePack.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.Build.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\NuGet.Common.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Syncfusion.EJ2.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\Syncfusion.Licensing.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\obj\Debug\net6.0\PFA.csproj.AssemblyReference.cache
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\obj\Debug\net6.0\PFA.GeneratedMSBuildEditorConfig.editorconfig
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\obj\Debug\net6.0\PFA.AssemblyInfoInputs.cache
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\obj\Debug\net6.0\PFA.AssemblyInfo.cs
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\obj\Debug\net6.0\PFA.csproj.CoreCompileInputs.cache
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\obj\Debug\net6.0\PFA.MvcApplicationPartsAssemblyInfo.cs
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\obj\Debug\net6.0\PFA.MvcApplicationPartsAssemblyInfo.cache
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\obj\Debug\net6.0\PFA.RazorAssemblyInfo.cache
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\obj\Debug\net6.0\PFA.RazorAssemblyInfo.cs
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\obj\Debug\net6.0\staticwebassets.build.json
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\obj\Debug\net6.0\staticwebassets.development.json
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\obj\Debug\net6.0\staticwebassets\msbuild.PFA.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\obj\Debug\net6.0\staticwebassets\msbuild.build.PFA.props
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PFA.props
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PFA.props
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\obj\Debug\net6.0\staticwebassets.pack.json
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\obj\Debug\net6.0\scopedcss\bundle\PFA.styles.css
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\obj\Debug\net6.0\scopedcss\projectbundle\PFA.bundle.scp.css
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\obj\Debug\net6.0\PFA.csproj.Up2Date
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\obj\Debug\net6.0\PFA.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\obj\Debug\net6.0\refint\PFA.dll
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\obj\Debug\net6.0\PFA.pdb
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\obj\Debug\net6.0\PFA.genruntimeconfig.cache
+D:\PFA\PFA_GI_4-master\PFA_GI_4-master\PFA\obj\Debug\net6.0\ref\PFA.dll

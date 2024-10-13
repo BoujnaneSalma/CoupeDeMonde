@@ -1,0 +1,2194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|d:\\pfa\\pfa_gi_4-master\\pfa_gi_4-master\\pfa\\migrations\\20240527091934_next.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\migrations\\20240527091934_next.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\views\\client\\demanderplan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\views\\client\\demanderplan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\views\\home\\restauranttest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\views\\home\\restauranttest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\views\\home\\restaurant.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\views\\home\\restaurant.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\controllers\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\controllers\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\views\\restaurant\\listereservations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\views\\restaurant\\listereservations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\controllers\\paimentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\controllers\\paimentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\modelview\\reserverchambreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\modelview\\reserverchambreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\models\\endroit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\models\\endroit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\models\\chambre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\models\\chambre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\models\\paiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\models\\paiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\views\\paiment\\payer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\views\\paiment\\payer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\modelview\\paymentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\modelview\\paymentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\context\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\context\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\views\\shared\\_admin_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\views\\shared\\_admin_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\views\\shared\\_client_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\views\\shared\\_client_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\visite\\visitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\visite\\visitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\models\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\models\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\controllers\\activitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\controllers\\activitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\views\\activite\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\views\\activite\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\views\\hotel\\reserver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\views\\hotel\\reserver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\views\\hotel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\views\\hotel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\views\\home\\hotel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\views\\home\\hotel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\modelview\\listerhotelmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\modelview\\listerhotelmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\views\\paiment\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\views\\paiment\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\views\\home\\activite.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\views\\home\\activite.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\modelview\\listeractivieviewmodelcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\modelview\\listeractivieviewmodelcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\models\\avis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\models\\avis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\models\\ville.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\models\\ville.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\controllers\\visitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\controllers\\visitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\models\\itineraire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\models\\itineraire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\models\\lieutouristique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\models\\lieutouristique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\views\\client\\modifierprofil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\views\\client\\modifierprofil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\views\\client\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\views\\client\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\views\\restaurant\\reserver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\views\\restaurant\\reserver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\views\\client\\afficherstatistique.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\views\\client\\afficherstatistique.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\modelview\\listertablesreserveviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\modelview\\listertablesreserveviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\modelview\\listerrestaurantmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\modelview\\listerrestaurantmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\modelview\\statistiqueviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\modelview\\statistiqueviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\modelview\\visitstatisticviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\modelview\\visitstatisticviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\modelview\\userinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\modelview\\userinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\visite\\ivisitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\visite\\ivisitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\views\\hotel\\listereservations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\views\\hotel\\listereservations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\views\\hotel\\editerreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\views\\hotel\\editerreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\views\\restaurant\\editerreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\views\\restaurant\\editerreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\modelview\\modifierreservationchambreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\modelview\\modifierreservationchambreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\modelview\\modifierreservationtableviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\modelview\\modifierreservationtableviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\modelview\\listerchambresreserverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\modelview\\listerchambresreserverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\modelview\\reservertableviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\modelview\\reservertableviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520185631_PFA001.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520185426_PFA000.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520185259_PFA002.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520184958_PFA000.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520184833_PFA0028.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520184607_PFA0028.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520184307_PFA0027.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520184217_PFA002.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520184006_PFA000.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520174513_PFA000.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520174143_PFA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520174030_clean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520173835_PFA169.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520171633_PFA167.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520170852_PFA164.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520171052_PFA165.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520171642_PFA168.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520170843_PFA163.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520170721_PFA162.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520170213_PFA161.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520170044_PFA160.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520164046_PFA153.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520161437_PFA148.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520163705_PFA151.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520162213_PFA149.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520163751_PFA152.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520161013_PFA146.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520160812_PFA145.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520160612_PFA144.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155916_PFA143.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155908_PFA142.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155619_PFA141.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155518_PFA140.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155346_PFA139.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155233_PFA138.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155225_PFA137.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520150858_PFA131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\views\\restaurant\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\views\\restaurant\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240519214238_PFA130.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240519214230_PFA129.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240519183351_PFA128.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240519171641_PFA127.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240519171632_PFA126.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\views\\hotel\\trackvisit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\views\\hotel\\trackvisit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240518173325_PFA125.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\modelview\\clientmodifierprofilmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\modelview\\clientmodifierprofilmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\modelview\\userloginmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\modelview\\userloginmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\modelview\\listerlieutouristiquemodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\modelview\\listerlieutouristiquemodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240518133448_PFA124.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516221648_PFA119.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\modelview\\clientinscriptionmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\modelview\\clientinscriptionmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516172316_PFA118.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516171224_PFA117.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516154554_PFA114.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516154548_PFA113.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516153847_PFA111.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516153840_PFA101.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\wwwroot\\tempprincipale\\scss\\style.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\wwwroot\\tempprincipale\\scss\\style.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\views\\user\\inscription.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\views\\user\\inscription.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\wwwroot\\client\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\wwwroot\\client\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\wwwroot\\client\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\wwwroot\\client\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\wwwroot\\client\\assets\\scss\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\wwwroot\\client\\assets\\scss\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\pfa\\wwwroot\\stylelogin\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:pfa\\wwwroot\\stylelogin\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Migrations\\20240525141820_PFA0004.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:PFA\\Migrations\\20240525141820_PFA0004.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Migrations\\20240525134222_PFA0003.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:PFA\\Migrations\\20240525134222_PFA0003.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Migrations\\20240521164346_PFA0000.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:PFA\\Migrations\\20240521164346_PFA0000.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Migrations\\20240520235258_PFA02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:PFA\\Migrations\\20240520235258_PFA02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Migrations\\20240520235308_PFA03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:PFA\\Migrations\\20240520235308_PFA03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Migrations\\20240520221651_PFA01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:PFA\\Migrations\\20240520221651_PFA01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Migrations\\20240520185809_PFA000.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C15D776C-CF7A-4CB6-9C0B-ADB076DF42A8}|PFA\\PFA.csproj|solutionrelative:PFA\\Migrations\\20240520185809_PFA000.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240527091934_next.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Migrations\\20240527091934_next.cs",
+              "RelativeDocumentMoniker": "PFA\\Migrations\\20240527091934_next.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Migrations\\20240527091934_next.cs",
+              "RelativeToolTip": "PFA\\Migrations\\20240527091934_next.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:19:35.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PFA\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PFA\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAAHgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:12.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Restaurant.cshtml",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Home\\Restaurant.cshtml",
+              "RelativeDocumentMoniker": "PFA\\Views\\Home\\Restaurant.cshtml",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Home\\Restaurant.cshtml",
+              "RelativeToolTip": "PFA\\Views\\Home\\Restaurant.cshtml",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAFYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:34:12.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HotelController.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Controllers\\HotelController.cs",
+              "RelativeDocumentMoniker": "PFA\\Controllers\\HotelController.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Controllers\\HotelController.cs",
+              "RelativeToolTip": "PFA\\Controllers\\HotelController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:12.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DemanderPlan.cshtml",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Client\\DemanderPlan.cshtml",
+              "RelativeDocumentMoniker": "PFA\\Views\\Client\\DemanderPlan.cshtml",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Client\\DemanderPlan.cshtml",
+              "RelativeToolTip": "PFA\\Views\\Client\\DemanderPlan.cshtml",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAiwGEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:34:12.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "PFA\\Controllers\\ClientController.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "PFA\\Controllers\\ClientController.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAAAJMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:15.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\appsettings.json",
+              "RelativeDocumentMoniker": "PFA\\appsettings.json",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\appsettings.json",
+              "RelativeToolTip": "PFA\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T08:34:16.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Program.cs",
+              "RelativeDocumentMoniker": "PFA\\Program.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Program.cs",
+              "RelativeToolTip": "PFA\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ListeReservations.cshtml",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Restaurant\\ListeReservations.cshtml",
+              "RelativeDocumentMoniker": "PFA\\Views\\Restaurant\\ListeReservations.cshtml",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Restaurant\\ListeReservations.cshtml",
+              "RelativeToolTip": "PFA\\Views\\Restaurant\\ListeReservations.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:34:12.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RestaurantController.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Controllers\\RestaurantController.cs",
+              "RelativeDocumentMoniker": "PFA\\Controllers\\RestaurantController.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Controllers\\RestaurantController.cs",
+              "RelativeToolTip": "PFA\\Controllers\\RestaurantController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAWwGoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:12.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RestaurantTest.cshtml",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Home\\RestaurantTest.cshtml",
+              "RelativeDocumentMoniker": "PFA\\Views\\Home\\RestaurantTest.cshtml",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Home\\RestaurantTest.cshtml",
+              "RelativeToolTip": "PFA\\Views\\Home\\RestaurantTest.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:34:15.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReserverChambreViewModel.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\ReserverChambreViewModel.cs",
+              "RelativeDocumentMoniker": "PFA\\ModelView\\ReserverChambreViewModel.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\ReserverChambreViewModel.cs",
+              "RelativeToolTip": "PFA\\ModelView\\ReserverChambreViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Endroit.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Models\\Endroit.cs",
+              "RelativeDocumentMoniker": "PFA\\Models\\Endroit.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Models\\Endroit.cs",
+              "RelativeToolTip": "PFA\\Models\\Endroit.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "PFA\\Models\\Reservation.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Models\\Reservation.cs",
+              "RelativeToolTip": "PFA\\Models\\Reservation.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Chambre.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Models\\Chambre.cs",
+              "RelativeDocumentMoniker": "PFA\\Models\\Chambre.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Models\\Chambre.cs",
+              "RelativeToolTip": "PFA\\Models\\Chambre.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Payer.cshtml",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Paiment\\Payer.cshtml",
+              "RelativeDocumentMoniker": "PFA\\Views\\Paiment\\Payer.cshtml",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Paiment\\Payer.cshtml",
+              "RelativeToolTip": "PFA\\Views\\Paiment\\Payer.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:34:16.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Paiment.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Models\\Paiment.cs",
+              "RelativeDocumentMoniker": "PFA\\Models\\Paiment.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Models\\Paiment.cs",
+              "RelativeToolTip": "PFA\\Models\\Paiment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaimentController.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Controllers\\PaimentController.cs",
+              "RelativeDocumentMoniker": "PFA\\Controllers\\PaimentController.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Controllers\\PaimentController.cs",
+              "RelativeToolTip": "PFA\\Controllers\\PaimentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PaymentViewModel.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\PaymentViewModel.cs",
+              "RelativeDocumentMoniker": "PFA\\ModelView\\PaymentViewModel.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\PaymentViewModel.cs",
+              "RelativeToolTip": "PFA\\ModelView\\PaymentViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 132,
+              "Title": "20240525141820_PFA0004.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Migrations\\20240525141820_PFA0004.cs",
+              "RelativeDocumentMoniker": "PFA\\Migrations\\20240525141820_PFA0004.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Migrations\\20240525141820_PFA0004.cs",
+              "RelativeToolTip": "PFA\\Migrations\\20240525141820_PFA0004.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "PFA\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "PFA\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "PFA\\Models\\Hotel.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Models\\Hotel.cs",
+              "RelativeToolTip": "PFA\\Models\\Hotel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Client_Layout.cshtml",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Shared\\_Client_Layout.cshtml",
+              "RelativeDocumentMoniker": "PFA\\Views\\Shared\\_Client_Layout.cshtml",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Shared\\_Client_Layout.cshtml",
+              "RelativeToolTip": "PFA\\Views\\Shared\\_Client_Layout.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAFgAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:34:16.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Admin_Layout.cshtml",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Shared\\_Admin_Layout.cshtml",
+              "RelativeDocumentMoniker": "PFA\\Views\\Shared\\_Admin_Layout.cshtml",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Shared\\_Admin_Layout.cshtml",
+              "RelativeToolTip": "PFA\\Views\\Shared\\_Admin_Layout.cshtml",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAtwHIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:34:16.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 133,
+              "Title": "20240525134222_PFA0003.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Migrations\\20240525134222_PFA0003.cs",
+              "RelativeDocumentMoniker": "PFA\\Migrations\\20240525134222_PFA0003.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Migrations\\20240525134222_PFA0003.cs",
+              "RelativeToolTip": "PFA\\Migrations\\20240525134222_PFA0003.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MyContext.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Context\\MyContext.cs",
+              "RelativeDocumentMoniker": "PFA\\Context\\MyContext.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Context\\MyContext.cs",
+              "RelativeToolTip": "PFA\\Context\\MyContext.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAWwDAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "PFA\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Controllers\\UserController.cs",
+              "RelativeToolTip": "PFA\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAArwFQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "PFA\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "PFA\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAABkBAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:34:16.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PFA\\Models\\User.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Models\\User.cs",
+              "RelativeToolTip": "PFA\\Models\\User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Visit.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Models\\Visit.cs",
+              "RelativeDocumentMoniker": "PFA\\Models\\Visit.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Models\\Visit.cs",
+              "RelativeToolTip": "PFA\\Models\\Visit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "VisitService.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Visite\\VisitService.cs",
+              "RelativeDocumentMoniker": "PFA\\Visite\\VisitService.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Visite\\VisitService.cs",
+              "RelativeToolTip": "PFA\\Visite\\VisitService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ActiviteController.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Controllers\\ActiviteController.cs",
+              "RelativeDocumentMoniker": "PFA\\Controllers\\ActiviteController.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Controllers\\ActiviteController.cs",
+              "RelativeToolTip": "PFA\\Controllers\\ActiviteController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAWwB4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Activite\\Details.cshtml",
+              "RelativeDocumentMoniker": "PFA\\Views\\Activite\\Details.cshtml",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Activite\\Details.cshtml",
+              "RelativeToolTip": "PFA\\Views\\Activite\\Details.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:34:16.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PFA\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PFA\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAE8AAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:34:16.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Reserver.cshtml",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Hotel\\Reserver.cshtml",
+              "RelativeDocumentMoniker": "PFA\\Views\\Hotel\\Reserver.cshtml",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Hotel\\Reserver.cshtml",
+              "RelativeToolTip": "PFA\\Views\\Hotel\\Reserver.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:34:16.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Hotel\\Details.cshtml",
+              "RelativeDocumentMoniker": "PFA\\Views\\Hotel\\Details.cshtml",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Hotel\\Details.cshtml",
+              "RelativeToolTip": "PFA\\Views\\Hotel\\Details.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:34:16.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Hotel.cshtml",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Home\\Hotel.cshtml",
+              "RelativeDocumentMoniker": "PFA\\Views\\Home\\Hotel.cshtml",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Home\\Hotel.cshtml",
+              "RelativeToolTip": "PFA\\Views\\Home\\Hotel.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAADwvzMAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:34:16.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ListerHotelModelView.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\ListerHotelModelView.cs",
+              "RelativeDocumentMoniker": "PFA\\ModelView\\ListerHotelModelView.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\ListerHotelModelView.cs",
+              "RelativeToolTip": "PFA\\ModelView\\ListerHotelModelView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Confirmation.cshtml",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Paiment\\Confirmation.cshtml",
+              "RelativeDocumentMoniker": "PFA\\Views\\Paiment\\Confirmation.cshtml",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Paiment\\Confirmation.cshtml",
+              "RelativeToolTip": "PFA\\Views\\Paiment\\Confirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:34:16.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Avis.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Models\\Avis.cs",
+              "RelativeDocumentMoniker": "PFA\\Models\\Avis.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Models\\Avis.cs",
+              "RelativeToolTip": "PFA\\Models\\Avis.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAWwAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Ville.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Models\\Ville.cs",
+              "RelativeDocumentMoniker": "PFA\\Models\\Ville.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Models\\Ville.cs",
+              "RelativeToolTip": "PFA\\Models\\Ville.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ListerActivieViewModelcs.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\ListerActivieViewModelcs.cs",
+              "RelativeDocumentMoniker": "PFA\\ModelView\\ListerActivieViewModelcs.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\ListerActivieViewModelcs.cs",
+              "RelativeToolTip": "PFA\\ModelView\\ListerActivieViewModelcs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Table.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Models\\Table.cs",
+              "RelativeDocumentMoniker": "PFA\\Models\\Table.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Models\\Table.cs",
+              "RelativeToolTip": "PFA\\Models\\Table.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Activite.cshtml",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Home\\Activite.cshtml",
+              "RelativeDocumentMoniker": "PFA\\Views\\Home\\Activite.cshtml",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Home\\Activite.cshtml",
+              "RelativeToolTip": "PFA\\Views\\Home\\Activite.cshtml",
+              "ViewState": "AQIAAC8AAAAAAAAAAADwvzsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:34:16.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Models\\Restaurant.cs",
+              "RelativeDocumentMoniker": "PFA\\Models\\Restaurant.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Models\\Restaurant.cs",
+              "RelativeToolTip": "PFA\\Models\\Restaurant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "PFA\\Models\\Contact.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Models\\Contact.cs",
+              "RelativeToolTip": "PFA\\Models\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "VisitController.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Controllers\\VisitController.cs",
+              "RelativeDocumentMoniker": "PFA\\Controllers\\VisitController.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Controllers\\VisitController.cs",
+              "RelativeToolTip": "PFA\\Controllers\\VisitController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "LieuTouristique.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Models\\LieuTouristique.cs",
+              "RelativeDocumentMoniker": "PFA\\Models\\LieuTouristique.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Models\\LieuTouristique.cs",
+              "RelativeToolTip": "PFA\\Models\\LieuTouristique.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Itineraire.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Models\\Itineraire.cs",
+              "RelativeDocumentMoniker": "PFA\\Models\\Itineraire.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Models\\Itineraire.cs",
+              "RelativeToolTip": "PFA\\Models\\Itineraire.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ModifierProfil.cshtml",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Client\\ModifierProfil.cshtml",
+              "RelativeDocumentMoniker": "PFA\\Views\\Client\\ModifierProfil.cshtml",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Client\\ModifierProfil.cshtml",
+              "RelativeToolTip": "PFA\\Views\\Client\\ModifierProfil.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:34:16.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Client\\Index.cshtml",
+              "RelativeDocumentMoniker": "PFA\\Views\\Client\\Index.cshtml",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Client\\Index.cshtml",
+              "RelativeToolTip": "PFA\\Views\\Client\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:34:16.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 134,
+              "Title": "20240521164346_PFA0000.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Migrations\\20240521164346_PFA0000.cs",
+              "RelativeDocumentMoniker": "PFA\\Migrations\\20240521164346_PFA0000.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Migrations\\20240521164346_PFA0000.cs",
+              "RelativeToolTip": "PFA\\Migrations\\20240521164346_PFA0000.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Reserver.cshtml",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Restaurant\\Reserver.cshtml",
+              "RelativeDocumentMoniker": "PFA\\Views\\Restaurant\\Reserver.cshtml",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Restaurant\\Reserver.cshtml",
+              "RelativeToolTip": "PFA\\Views\\Restaurant\\Reserver.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:34:16.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AfficherStatistique.cshtml",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Client\\AfficherStatistique.cshtml",
+              "RelativeDocumentMoniker": "PFA\\Views\\Client\\AfficherStatistique.cshtml",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Client\\AfficherStatistique.cshtml",
+              "RelativeToolTip": "PFA\\Views\\Client\\AfficherStatistique.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:34:16.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ListerTablesReserveViewModel.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\ListerTablesReserveViewModel.cs",
+              "RelativeDocumentMoniker": "PFA\\ModelView\\ListerTablesReserveViewModel.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\ListerTablesReserveViewModel.cs",
+              "RelativeToolTip": "PFA\\ModelView\\ListerTablesReserveViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ListerRestaurantModelView.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\ListerRestaurantModelView.cs",
+              "RelativeDocumentMoniker": "PFA\\ModelView\\ListerRestaurantModelView.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\ListerRestaurantModelView.cs",
+              "RelativeToolTip": "PFA\\ModelView\\ListerRestaurantModelView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "StatistiqueViewModel.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\StatistiqueViewModel.cs",
+              "RelativeDocumentMoniker": "PFA\\ModelView\\StatistiqueViewModel.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\StatistiqueViewModel.cs",
+              "RelativeToolTip": "PFA\\ModelView\\StatistiqueViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IVisitService.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Visite\\IVisitService.cs",
+              "RelativeDocumentMoniker": "PFA\\Visite\\IVisitService.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Visite\\IVisitService.cs",
+              "RelativeToolTip": "PFA\\Visite\\IVisitService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "VisitStatisticViewModel.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\VisitStatisticViewModel.cs",
+              "RelativeDocumentMoniker": "PFA\\ModelView\\VisitStatisticViewModel.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\VisitStatisticViewModel.cs",
+              "RelativeToolTip": "PFA\\ModelView\\VisitStatisticViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "UserInfoViewModel.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\UserInfoViewModel.cs",
+              "RelativeDocumentMoniker": "PFA\\ModelView\\UserInfoViewModel.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\UserInfoViewModel.cs",
+              "RelativeToolTip": "PFA\\ModelView\\UserInfoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 135,
+              "Title": "20240520235258_PFA02.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Migrations\\20240520235258_PFA02.cs",
+              "RelativeDocumentMoniker": "PFA\\Migrations\\20240520235258_PFA02.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Migrations\\20240520235258_PFA02.cs",
+              "RelativeToolTip": "PFA\\Migrations\\20240520235258_PFA02.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 136,
+              "Title": "20240520235308_PFA03.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Migrations\\20240520235308_PFA03.cs",
+              "RelativeDocumentMoniker": "PFA\\Migrations\\20240520235308_PFA03.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Migrations\\20240520235308_PFA03.cs",
+              "RelativeToolTip": "PFA\\Migrations\\20240520235308_PFA03.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PFA\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PFA\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:34:16.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ListeReservations.cshtml",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Hotel\\ListeReservations.cshtml",
+              "RelativeDocumentMoniker": "PFA\\Views\\Hotel\\ListeReservations.cshtml",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Hotel\\ListeReservations.cshtml",
+              "RelativeToolTip": "PFA\\Views\\Hotel\\ListeReservations.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:34:16.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "EditerReservation.cshtml",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Restaurant\\EditerReservation.cshtml",
+              "RelativeDocumentMoniker": "PFA\\Views\\Restaurant\\EditerReservation.cshtml",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Restaurant\\EditerReservation.cshtml",
+              "RelativeToolTip": "PFA\\Views\\Restaurant\\EditerReservation.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:34:16.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ModifierReservationTableViewModel.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\ModifierReservationTableViewModel.cs",
+              "RelativeDocumentMoniker": "PFA\\ModelView\\ModifierReservationTableViewModel.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\ModifierReservationTableViewModel.cs",
+              "RelativeToolTip": "PFA\\ModelView\\ModifierReservationTableViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "EditerReservation.cshtml",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Hotel\\EditerReservation.cshtml",
+              "RelativeDocumentMoniker": "PFA\\Views\\Hotel\\EditerReservation.cshtml",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Hotel\\EditerReservation.cshtml",
+              "RelativeToolTip": "PFA\\Views\\Hotel\\EditerReservation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:34:16.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ModifierReservationChambreViewModel.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\ModifierReservationChambreViewModel.cs",
+              "RelativeDocumentMoniker": "PFA\\ModelView\\ModifierReservationChambreViewModel.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\ModifierReservationChambreViewModel.cs",
+              "RelativeToolTip": "PFA\\ModelView\\ModifierReservationChambreViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ListerChambresReserverViewModel.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\ListerChambresReserverViewModel.cs",
+              "RelativeDocumentMoniker": "PFA\\ModelView\\ListerChambresReserverViewModel.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\ListerChambresReserverViewModel.cs",
+              "RelativeToolTip": "PFA\\ModelView\\ListerChambresReserverViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ReserverTableViewModel.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\ReserverTableViewModel.cs",
+              "RelativeDocumentMoniker": "PFA\\ModelView\\ReserverTableViewModel.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\ReserverTableViewModel.cs",
+              "RelativeToolTip": "PFA\\ModelView\\ReserverTableViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 137,
+              "Title": "20240520221651_PFA01.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Migrations\\20240520221651_PFA01.cs",
+              "RelativeDocumentMoniker": "PFA\\Migrations\\20240520221651_PFA01.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Migrations\\20240520221651_PFA01.cs",
+              "RelativeToolTip": "PFA\\Migrations\\20240520221651_PFA01.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 138,
+              "Title": "20240520185809_PFA000.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Migrations\\20240520185809_PFA000.cs",
+              "RelativeDocumentMoniker": "PFA\\Migrations\\20240520185809_PFA000.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Migrations\\20240520185809_PFA000.cs",
+              "RelativeToolTip": "PFA\\Migrations\\20240520185809_PFA000.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20240520184958_PFA000.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520184958_PFA000.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520184958_PFA000.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520184958_PFA000.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520184958_PFA000.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:49:59.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20240520185259_PFA002.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520185259_PFA002.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520185259_PFA002.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520185259_PFA002.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520185259_PFA002.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:52:59.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20240520185426_PFA000.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520185426_PFA000.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520185426_PFA000.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520185426_PFA000.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520185426_PFA000.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:54:26.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20240520185631_PFA001.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520185631_PFA001.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520185631_PFA001.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520185631_PFA001.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520185631_PFA001.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:56:32.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20240520184833_PFA0028.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520184833_PFA0028.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520184833_PFA0028.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520184833_PFA0028.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520184833_PFA0028.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:48:33.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20240520184607_PFA0028.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520184607_PFA0028.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520184607_PFA0028.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520184607_PFA0028.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520184607_PFA0028.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:46:07.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20240520184307_PFA0027.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520184307_PFA0027.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520184307_PFA0027.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520184307_PFA0027.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520184307_PFA0027.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:43:07.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20240520184217_PFA002.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520184217_PFA002.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520184217_PFA002.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520184217_PFA002.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520184217_PFA002.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:42:17.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20240520184006_PFA000.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520184006_PFA000.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520184006_PFA000.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520184006_PFA000.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520184006_PFA000.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:40:06.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20240520174513_PFA000.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520174513_PFA000.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520174513_PFA000.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520174513_PFA000.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520174513_PFA000.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:45:13.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20240520174143_PFA.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520174143_PFA.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520174143_PFA.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520174143_PFA.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520174143_PFA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:41:43.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "20240520174030_clean.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520174030_clean.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520174030_clean.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520174030_clean.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520174030_clean.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:40:30.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20240520173835_PFA169.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520173835_PFA169.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520173835_PFA169.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520173835_PFA169.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520173835_PFA169.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:38:36.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "20240520171633_PFA167.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520171633_PFA167.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520171633_PFA167.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520171633_PFA167.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520171633_PFA167.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:16:33.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "20240520170852_PFA164.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520170852_PFA164.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520170852_PFA164.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520170852_PFA164.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520170852_PFA164.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:08:53.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "20240520171052_PFA165.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520171052_PFA165.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520171052_PFA165.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520171052_PFA165.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520171052_PFA165.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:10:52.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "20240520171642_PFA168.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520171642_PFA168.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520171642_PFA168.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520171642_PFA168.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520171642_PFA168.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:16:42.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "20240520170843_PFA163.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520170843_PFA163.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520170843_PFA163.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520170843_PFA163.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520170843_PFA163.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:08:43.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "20240520170721_PFA162.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520170721_PFA162.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520170721_PFA162.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520170721_PFA162.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520170721_PFA162.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAkwDEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:07:21.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "20240520170213_PFA161.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520170213_PFA161.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520170213_PFA161.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520170213_PFA161.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520170213_PFA161.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:02:14.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "20240520170044_PFA160.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520170044_PFA160.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520170044_PFA160.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520170044_PFA160.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520170044_PFA160.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:00:44.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "20240520164046_PFA153.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520164046_PFA153.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520164046_PFA153.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520164046_PFA153.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520164046_PFA153.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswDYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:40:46.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "20240520163705_PFA151.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520163705_PFA151.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520163705_PFA151.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520163705_PFA151.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520163705_PFA151.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:37:05.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "20240520162213_PFA149.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520162213_PFA149.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520162213_PFA149.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520162213_PFA149.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520162213_PFA149.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:22:13.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "20240520163751_PFA152.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520163751_PFA152.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520163751_PFA152.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520163751_PFA152.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520163751_PFA152.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:37:51.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "20240520161437_PFA148.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520161437_PFA148.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520161437_PFA148.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520161437_PFA148.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520161437_PFA148.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:14:37.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "20240520161013_PFA146.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520161013_PFA146.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520161013_PFA146.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520161013_PFA146.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520161013_PFA146.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:10:13.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "20240520160812_PFA145.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520160812_PFA145.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520160812_PFA145.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520160812_PFA145.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520160812_PFA145.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:08:13.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "20240520160612_PFA144.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520160612_PFA144.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520160612_PFA144.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520160612_PFA144.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520160612_PFA144.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:06:13.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "20240520155916_PFA143.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155916_PFA143.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155916_PFA143.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155916_PFA143.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155916_PFA143.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:59:17.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "20240520155908_PFA142.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155908_PFA142.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155908_PFA142.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155908_PFA142.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155908_PFA142.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:59:08.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "20240520155619_PFA141.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155619_PFA141.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155619_PFA141.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155619_PFA141.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155619_PFA141.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:56:19.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "20240520155518_PFA140.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155518_PFA140.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155518_PFA140.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155518_PFA140.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155518_PFA140.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:55:18.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "20240520155346_PFA139.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155346_PFA139.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155346_PFA139.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155346_PFA139.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155346_PFA139.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:53:46.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "20240520155233_PFA138.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155233_PFA138.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155233_PFA138.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155233_PFA138.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155233_PFA138.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:52:33.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "20240520155225_PFA137.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155225_PFA137.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155225_PFA137.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155225_PFA137.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520155225_PFA137.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:52:25.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Restaurant\\Details.cshtml",
+              "RelativeDocumentMoniker": "PFA\\Views\\Restaurant\\Details.cshtml",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Restaurant\\Details.cshtml",
+              "RelativeToolTip": "PFA\\Views\\Restaurant\\Details.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:34:16.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "20240520150858_PFA131.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520150858_PFA131.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520150858_PFA131.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520150858_PFA131.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240520150858_PFA131.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:08:58.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "20240519214230_PFA129.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240519214230_PFA129.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240519214230_PFA129.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240519214230_PFA129.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240519214230_PFA129.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:42:30.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "20240519214238_PFA130.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240519214238_PFA130.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240519214238_PFA130.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240519214238_PFA130.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240519214238_PFA130.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T21:42:39.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "20240519183351_PFA128.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240519183351_PFA128.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240519183351_PFA128.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240519183351_PFA128.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240519183351_PFA128.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:33:51.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "20240519171641_PFA127.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240519171641_PFA127.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240519171641_PFA127.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240519171641_PFA127.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240519171641_PFA127.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:16:41.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "20240519171632_PFA126.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240519171632_PFA126.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240519171632_PFA126.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240519171632_PFA126.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240519171632_PFA126.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:16:32.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "TrackVisit.cshtml",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Hotel\\TrackVisit.cshtml",
+              "RelativeDocumentMoniker": "PFA\\Views\\Hotel\\TrackVisit.cshtml",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Hotel\\TrackVisit.cshtml",
+              "RelativeToolTip": "PFA\\Views\\Hotel\\TrackVisit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:34:16.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "20240518173325_PFA125.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240518173325_PFA125.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240518173325_PFA125.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240518173325_PFA125.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240518173325_PFA125.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T17:33:25.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PFA\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PFA\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:34:16.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "ClientModifierProfilModelView.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\ClientModifierProfilModelView.cs",
+              "RelativeDocumentMoniker": "PFA\\ModelView\\ClientModifierProfilModelView.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\ClientModifierProfilModelView.cs",
+              "RelativeToolTip": "PFA\\ModelView\\ClientModifierProfilModelView.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "UserLoginModelView.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\UserLoginModelView.cs",
+              "RelativeDocumentMoniker": "PFA\\ModelView\\UserLoginModelView.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\UserLoginModelView.cs",
+              "RelativeToolTip": "PFA\\ModelView\\UserLoginModelView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "ListerLieuTouristiqueModelView.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\ListerLieuTouristiqueModelView.cs",
+              "RelativeDocumentMoniker": "PFA\\ModelView\\ListerLieuTouristiqueModelView.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\ListerLieuTouristiqueModelView.cs",
+              "RelativeToolTip": "PFA\\ModelView\\ListerLieuTouristiqueModelView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "20240518133448_PFA124.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240518133448_PFA124.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240518133448_PFA124.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240518133448_PFA124.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240518133448_PFA124.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T13:34:49.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PFA\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PFA\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACICAAAAAAAAAAAAAF4CAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:34:16.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PFA\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "PFA\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:34:16.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "ClientInscriptionModelView.cs",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\ClientInscriptionModelView.cs",
+              "RelativeDocumentMoniker": "PFA\\ModelView\\ClientInscriptionModelView.cs",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\ModelView\\ClientInscriptionModelView.cs",
+              "RelativeToolTip": "PFA\\ModelView\\ClientInscriptionModelView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:34:16.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "20240516221648_PFA119.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516221648_PFA119.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516221648_PFA119.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516221648_PFA119.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516221648_PFA119.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T22:16:48.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "20240516172316_PFA118.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516172316_PFA118.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516172316_PFA118.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516172316_PFA118.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516172316_PFA118.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:23:17.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "20240516171224_PFA117.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516171224_PFA117.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516171224_PFA117.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516171224_PFA117.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516171224_PFA117.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:12:24.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "20240516154554_PFA114.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516154554_PFA114.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516154554_PFA114.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516154554_PFA114.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516154554_PFA114.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:45:54.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "20240516154548_PFA113.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516154548_PFA113.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516154548_PFA113.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516154548_PFA113.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516154548_PFA113.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:45:48.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "20240516153847_PFA111.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516153847_PFA111.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516153847_PFA111.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516153847_PFA111.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516153847_PFA111.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:38:47.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "20240516153840_PFA101.cs",
+              "DocumentMoniker": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516153840_PFA101.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516153840_PFA101.cs",
+              "ToolTip": "D:\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516153840_PFA101.cs",
+              "RelativeToolTip": "..\\..\\..\\Projet .NET 4eme annee\\PFA\\PFA\\Migrations\\20240516153840_PFA101.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:38:40.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "style.scss",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\wwwroot\\TempPrincipale\\scss\\style.scss",
+              "RelativeDocumentMoniker": "PFA\\wwwroot\\TempPrincipale\\scss\\style.scss",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\wwwroot\\TempPrincipale\\scss\\style.scss",
+              "RelativeToolTip": "PFA\\wwwroot\\TempPrincipale\\scss\\style.scss",
+              "ViewState": "AQIAAFgIAAAAAAAAAAAAAGAIAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-05-27T08:34:16.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "PFA\\Views\\User\\Login.cshtml",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "PFA\\Views\\User\\Login.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:34:16.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "Inscription.cshtml",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\User\\Inscription.cshtml",
+              "RelativeDocumentMoniker": "PFA\\Views\\User\\Inscription.cshtml",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\Views\\User\\Inscription.cshtml",
+              "RelativeToolTip": "PFA\\Views\\User\\Inscription.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACoAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T08:34:16.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\wwwroot\\Client\\style.css",
+              "RelativeDocumentMoniker": "PFA\\wwwroot\\Client\\style.css",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\wwwroot\\Client\\style.css",
+              "RelativeToolTip": "PFA\\wwwroot\\Client\\style.css",
+              "ViewState": "AQIAAIkDAAAAAAAAAAAMwJEDAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-27T08:34:16.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 129,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\wwwroot\\Client\\assets\\css\\style.css",
+              "RelativeDocumentMoniker": "PFA\\wwwroot\\Client\\assets\\css\\style.css",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\wwwroot\\Client\\assets\\css\\style.css",
+              "RelativeToolTip": "PFA\\wwwroot\\Client\\assets\\css\\style.css",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-27T08:34:16.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 130,
+              "Title": "Readme.txt",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\wwwroot\\Client\\assets\\scss\\Readme.txt",
+              "RelativeDocumentMoniker": "PFA\\wwwroot\\Client\\assets\\scss\\Readme.txt",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\wwwroot\\Client\\assets\\scss\\Readme.txt",
+              "RelativeToolTip": "PFA\\wwwroot\\Client\\assets\\scss\\Readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-27T08:34:16.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 131,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\wwwroot\\StyleLogin\\css\\style.css",
+              "RelativeDocumentMoniker": "PFA\\wwwroot\\StyleLogin\\css\\style.css",
+              "ToolTip": "D:\\PFA\\PFA_GI_4-master\\PFA_GI_4-master\\PFA\\wwwroot\\StyleLogin\\css\\style.css",
+              "RelativeToolTip": "PFA\\wwwroot\\StyleLogin\\css\\style.css",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAMwNAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-27T08:34:16.254Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
